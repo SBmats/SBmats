@@ -15,7 +15,7 @@
         <nav class="navbar">
             <ul>
                 <li><a class="a" href="#home">Home</a></li>
-                <li><a class="a" href="#About">About</a></li>
+                <li><a class="a" href="#About">About </a></li>
                 <li><a class="a" href="#Motercycles">ROlling Mats</a></li>
                 <li><a class="a" href="#Accesories">Indoor Mats</a></li>
                 <li><a class="a" href="#Dealer">Design Mats</a></li>
