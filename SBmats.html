@@ -10,15 +10,15 @@
     <header class="header">
         
         <a href="a" class="logo">
-            <img src="Mainlogo.jpg" height="90" width="145">
+            <img src="MAINlogo.png" height="120" width="145">
         </a>
         <nav class="navbar">
             <ul>
                 <li><a class="a" href="#home">Home</a></li>
                 <li><a class="a" href="#About">About</a></li>
-                <li><a class="a" href="#Motercycles">Motercycles</a></li>
-                <li><a class="a" href="#Accesories">Accesories</a></li>
-                <li><a class="a" href="#Dealer">Dealer</a></li>
+                <li><a class="a" href="#Motercycles">ROlling Mats</a></li>
+                <li><a class="a" href="#Accesories">Indoor Mats</a></li>
+                <li><a class="a" href="#Dealer">Design Mats</a></li>
                 <li><a class="a" href="#Contact">Contact us</a></li>
             </ul>
         </nav>
@@ -32,12 +32,17 @@
         <div class="grid1">
             <div>
                 <p>
-                Triumph Motorcycles Ltd is the largest UK-owned motorcycle manufacturer, established in 1983 by John Bloor after the original company
-                Triumph Engineering went into receivership.The new company, initially called Bonneville Coventry Ltd, continued Triumph's lineage of 
-                motorcycle production since 1902.At 21:00 on 15 March 2002, as the company was preparing to  celebrate the 100th anniversary of  the
-                Triumph brand, half of the main factory including the assembly area and stores was destroyed by a fire which began at the rear of the
-                facility. At the height of the blaze, over 100 firefighters with 30 vehicles were tackling the fire. Nevertheless,the company, which 
-                by then employed more than 650, quickly rebuilt the facility and returned to production by September that year.<a href="https://www.triumphmotorcycles.in/our-story" target="_blank">ReadMore</a></p>
+                    మేము 2002 నుండి ఈ రంగంలో ఉన్నందుకు గర్విస్తున్నాము మరియు విస్తృత మార్కెట్ నెట్‌వర్క్‌తో మరియు మా కస్టమర్‌లు,
+                     డీలర్‌లు మరియు డిస్ట్రిబ్యూటర్‌లకు అత్యుత్తమ సేవతో పనిని అమలు చేస్తున్నాము. మాకు అన్ని మూలల్లో డీలర్ల నెట్‌వర్క్ ఉంది.
+                      మీ షెడ్యూల్ ప్రకారం మీ అవసరాలను తీర్చడానికి మేము ఎల్లప్పుడూ ఏదైనా పరిమాణాన్ని సరఫరా చేస్తాము. మీ అన్ని కోరికలను తీర్చడానికి, 
+                      మేము దాదాపు వందల కొద్దీ రంగులతో కూడిన వెదురు బ్లైండ్‌ల యొక్క విభిన్న నమూనాలను కలిగి ఉన్నాము.
+                       వెదురు బ్లైండ్‌ల యొక్క మా మోడల్‌లలో ఇండోర్ మెషిన్-మేడ్ బ్లైండ్‌లు, అవుట్‌డోర్ హ్యాండ్ మేడ్ బ్లైండ్‌లు మొదలైనవి ఉన్నాయి. 
+                       మీ అవసరాలకు అనుగుణంగా మరియు డిజైన్ ఎంపికను ఎంచుకోవడానికి మా వద్ద అనేక రకాల ఉత్పత్తులు ఉన్నాయి, 
+                       ఇది బాహ్య మరియు ఇంటీరియర్ డిజైన్‌లో విభిన్న రూపాన్ని సృష్టిస్తుం<a href="https://sbmats.com/" target="home3img.jpeg">ReadMore</a></p>
+            </div>
+            <div>
+                <p>
+                    We are proud to have been in this field since 2002 and executing the works with a wide market network and the best service to our Customers, Dealers, and Distributors. We have a dealers’ network in all corners. We always supply any quantity to meet your requirements as per your schedule. To meet all your desires, we have different models of bamboo blinds with almost hundreds of colours. Our models of bamboo blinds include indoor machine-made blinds, outdoor hand-made blinds, etc. We have a wide range of products to meet your requirements to choose the need and design choice, which creates a different look in exterior and interior design which is unique.
             </div>
             
             <div class="n">
@@ -48,33 +53,31 @@
         </div>
         
     </section>
-    <section id="Motercycles">
-        <h1 id="motoh1">Motorcycles</h1>
+    <section id="sbmats">
+        <h1 id="motoh1">Our Team</h1>
         <div class="grid2">
             
             <div class="item1">
-               <a href="https://www.triumphmotorcycles.in/motorcycles/adventure/tiger-1200-rally" target="_blank"><img src="item1.jpg" title="Tiger 1200" height="250px" width="334px"></a>
+               <a href="https://sbmats.com/" target="_blank"><img src="item1.jpeg" title="Founder" height="500px" width="334px"></a>
             </div>
-            <div class="item1">
-                <a href="https://sbmats.com/" target="_blank"><img src="item1.jpg" title="Tiger 1200" height="250px" width="334px"></a>
-             </div>
+
             <div class="item2">
-                <a href="https://www.triumphmotorcycles.in/motorcycles/rocket-3/rocket-3" target="_blank"><img src="item3.jpg" title="Rocket 3" height="250px" width="334px"></a>
+                <a href="https://sbmats.com/" target="_blank"><img src="item3.jpeg" title="Director" height="500px" width="334px"></a>
             </div>
             <div class="item3">
-                <a href="https://www.triumphmotorcycles.in/motorcycles/roadsters/speed-triple-1200" target="_blank"><img src="item4.jpg" title="Speed Triple 1200" height="250px" width="334px"></a>
+                <a href="https://sbmats.com/" target="_blank"><img src="item4.jpeg" title="Managing Directot" height="500px" width="334px"></a>
             </div>
             <div class="item4">
-                <a href="https://www.triumphmotorcycles.in/motorcycles/classic/bonneville-bobber" target="_blank"><img src="item5.jpg" title="Bonneville-bobber" height="250px" width="334px"></a>
+                <a href="https://sbmats.com/" target="_blank"><img src="item5.jpeg" title="Trasporte Officer" height="500px" width="334px"></a>
             </div>      
         </div>
         <marquee id="marquee1">Move Right For More Videos</marquee>
         <div id="move">
             <div class="slide">
-                <video controls src="Aboutvideo1.mp4" width="100%" height="100%"></video>
+                <video controls src="Aboutvideo1.mp4" autoplay width="100%" height="100%"></video>
             </div>
             <div class="slide">
-                <video controls src="Aboutvideo2.mp4" width="100%" height="100%" ></video>
+                <video controls src="Aboutvideo1.mp4" width="100%" height="100%" ></video>
             </div>
             
         </div>
@@ -82,43 +85,43 @@
     <section id="Accesories">
         
         <div id="accstart">
-            <a href="https://www.triumphmotorcycles.in/configure"><h2>Accessorise Your Ride</h2></a>     
+            <a href="https://sbmats.com/"><h2>Our Products</h2></a>     
         </div>
         <div id="accmove">
             <div>
-                <video src="speedgif.mp4"autoplay loop muted width="100%" height="400px" ></video>
+                <video src="Aboutvideo1.mp4" autoplay loop muted width="100%" height="400px" ></video>
             </div>
-            <h1 id="gif1"><a href="https://www.triumphmotorcycles.in/motorcycles/roadsters/speed-triple-1200/accessories" target="_blank">SPEED TRIPLE 1200 ACCESSORIES</a></h1>
+            <h1 id="gif1"><a href="https://sbmats.com/" target="_blank">Bamboo Mats</a></h1>
             
             <div>
-                <video src="tigergif.mp4" autoplay loop muted width="100%" height="500px"></video>
+                <video src="Aboutvideo1.mp4" autoplay loop muted width="100%" height="500px"></video>
             </div>
-            <h1 id="gif2" ><a href="https://www.triumphmotorcycles.in/motorcycles/roadsters/speed-triple-1200/accessories" target="_blank">TRIUMPH TIGER 1200 ACCESSORIES</a></h1>
+            <h1 id="gif2" ><a href="https://sbmats.com/" target="_blank">Rolling Mats</a></h1>
             
             <div>
-                <video src="streeeet.mp4" autoplay loop muted width="100%" height="500px"></video>
+                <video src="Aboutvideo1.mp4" autoplay loop muted width="100%" height="500px"></video>
             </div>
-            <h1 id="gif3"><a href="https://www.triumphmotorcycles.in/motorcycles/adventure/tiger-sport-660" target="_blank">TRIUMPH SPORT 660 ACCESSORIES</a></a></h1>
+            <h1 id="gif3"><a href="https://sbmats.com/" target="_blank">Indoor Mats</a></a></h1>
             
             <div>
-                <video src="bobbergif.mp4"autoplay loop muted width="100%" height="500px" ></video>
+                <video src="Aboutvideo1.mp4"autoplay loop muted width="100%" height="500px" ></video>
             </div>
-            <h1 id="gif4"><a href="https://www.triumphmotorcycles.in/motorcycles/classic/bonneville-t120/accessories" target="_blank">TRIUMPH BOBBER ACCESSORIES</a></h1>    
+            <h1 id="gif4"><a href="https://sbmats.com/" target="_blank">Desing Mats</a></h1>    
         </div> 
 
-        <h1 id="casual">Casual Accesories</h1>
+        <h1 id="casual">Our Team</h1>
         <div class="grid3">
             <div class="ess1">
-               <a href="https://www.triumphmotorcycles.in/clothing-collection/motorcycle" target="_blank"> <img src="Helmet1.jpeg" title="Helmet" height="200px" width="200px" ></a>
+               <a href="https://sbmats.com/" target="_blank"> <img src="item1.jpeg" title="Founder" height="500px" width="200px" ></a>
             </div>
             <div class="ess2">
-                <a href="https://www.triumphmotorcycles.in/clothing-collection/riding-essentials" target="_blank">  <img src="Helmet2.jpg" title="Suite" height="200px" width="200px" ></a>
+                <a href="https://sbmats.com/" target="_blank">  <img src="item3.jpeg" title="Director" height="500px" width="200px" ></a>
             </div>
             <div class="ess3">
-               <a href="https://www.triumphmotorcycles.in/clothing-collection/motorcycle" target="_blank"> <img src="Gloves.jpg" title="Gloves" height="200px" width="200px" ></a>
+               <a href="https://sbmats.com/" target="_blank"> <img src="item4.jpeg" title="Managing Directot" height="500px" width="200px" ></a>
             </div>
             <div class="ess4">
-               <a href="https://www.triumphmotorcycles.in/clothing-collection/riding-essentials" target="_blank"> <img src="Ess2.jpg" title="Travel bag" height="200px" width="200px" ></a>
+               <a href="https://sbmats.com/" target="_blank"> <img src="item5.jpeg" title="Trasporte Officer" height="500px" width="200px" ></a>
             </div>
 
     </section>
@@ -140,6 +143,9 @@
                 </div>
                 <div class="inputbox">
                     <input type="email" placeholder="E-MAIL">
+                </div>
+                <div class="inputbox">
+                    <input type="email" placeholder="PHONE NUMBER">
                 </div>
                 <div class="inputbox">
                     <input type="submit" value="Contact Now">
